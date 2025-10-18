@@ -1,2 +1,2 @@
 console.log("index 1")
-console.log("hello index")
+console.log("morning index")

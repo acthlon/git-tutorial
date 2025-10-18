@@ -1,2 +1,2 @@
 console.log("config 1")
-console.log("hello config")
+console.log("morning config")
