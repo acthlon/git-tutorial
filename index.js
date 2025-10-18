@@ -1,2 +1,2 @@
 console.log("index 1")
-console.log("world index")
+console.log("name index")
