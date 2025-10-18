@@ -1,2 +1,2 @@
 console.log("config 1")
-console.log("name config")
+console.log("try ammend config")
