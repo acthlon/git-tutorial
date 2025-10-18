@@ -1,2 +1,2 @@
 console.log("config 1")
-console.log("morning config")
+console.log("world config")
